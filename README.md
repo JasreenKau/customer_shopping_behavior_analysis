@@ -65,7 +65,7 @@ Summarize insights and business recommendations through a structured report and 
 - GitHub
 
 ## 📜 License
-MIT License — free to use, fork, and adapt for learning or portfolio purposes.
+MIT License - free to use, fork, and adapt for learning or portfolio purposes.
 
 ## 👩‍💻 About the Author
 Hi, I’m Jasreen, a Data Analytics enthusiast with a strong interest in analyzing real-world data and translating insights into business impact. I enjoy working with Python, SQL, and BI tools to solve practical problems and build data-driven solutions.
