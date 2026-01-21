@@ -22,8 +22,6 @@ Build an interactive dashboard to highlight trends across demographics, product 
 ✅ Report & Presentation
 Summarize insights and business recommendations through a structured report and an executive-level presentation.
 
-![Project Workflow](assets/Project Workflow.png)
-
 <img width="611" height="332" alt="Project Workflow" src="https://github.com/user-attachments/assets/48dfcfea-f37c-4912-bedb-7d96b8c4f243" />
 
 ## 🛠️ How to Use This Project
